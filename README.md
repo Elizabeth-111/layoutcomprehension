@@ -23,12 +23,6 @@ The webpage includes the following layout sections:
   
 ---
 
-## 📸 Image Source
-
-- [Hot Air Balloon Image (via IndiaMART)](https://5.imimg.com/data5/XU/DN/GW/SELLER-27551673/hot-air-balloon-1000x1000.JPG)
-
----
-
 ## 🔍 Learning Focus
 
 - Proper HTML5 document structure
